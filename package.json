@@ -1,0 +1,28 @@
+{
+  "name": "scotts-tots",
+  "version": "1.0.0",
+  "description": "mmmmmmmmm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElijahLuis/scotts-tots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElijahLuis/scotts-tots/issues"
+  },
+  "homepage": "https://github.com/ElijahLuis/scotts-tots#readme",
+  "dependencies": {
+    "discord.js": "^14.26.0",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.2"
+  }
+}
